@@ -1,6 +1,6 @@
 
 
-# Susan Portfolio
+# SiwenSusan.github.io
 
 # Project 1 : Twitter Moods as stock price predictors    
 
