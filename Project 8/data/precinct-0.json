@@ -1,0 +1,13 @@
+{ 
+  "seed": 1468604453,
+  "precinct":
+    {
+       "name": "Downtown",
+       "hours_open": 1, 
+       "num_voters": 5, 
+       "voting_duration_rate": 0.1, 
+       "arrival_rate": 0.11,
+       "impatience_prob": 0.10
+    }
+}
+
