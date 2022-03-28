@@ -46,3 +46,4 @@ Diastolic blood pressure (mm Hg), Triceps skinfold thickness (mm), and so on.
 # Project 9:Visualizing Avian Biodiversity Using Treemaps
 * Generate treemaps to visualize this avian biodiversity data from samples taken throughout the year. Treemaps are a space-constrained method for visualizing hierarchical structures that present a sense of “mass” and proportionality in a way that the typical tree diagram does not. 
 This algorithm can be used to visualize many different types of data, including stock portfolios, oil production, gene ontology, stimulus spending, and more. 
+![alt text](https://github.com/SiwenSusan/SiwenSusan.github.io/blob/main/Pictures/Treemaps.png)
