@@ -8,7 +8,7 @@
 * Clean and prepare the dataset including using the Textblob package to perform sentiment analysis. Train a positve_negative_determination model using the training dataset using the different models’ results as classifiers including linear regression, logistic regression, KNN, and SVM.
 * Use Python to create a web application including the following features: app auto-update the data of today's dropdowns, graphs for visualizing the output, the top 3 sectors result for different models, and the tabs explaining the data and output 
 
-# [Project 2: Application|The Markovian Candidate”: Speaker Attribution Using Markov Model]\(https://github.com/SiwenSusan/SiwenSusan.github.io/tree/main/Project%202)
+# [Project 2: Application|Speaker Attribution Using Markov Model](https://github.com/SiwenSusan/SiwenSusan.github.io/tree/main/Project%202)
 * Implement a speaker attribution application using Markov Models.  It defined a probabilistic mechanism for randomly generating sequences over some alphabet of symbols. 
 * Given a string of text from an unidentified speaker, the algorithm uses a Markov model for a known speaker to assess the likelihood that the text was uttered by that speaker.
 
