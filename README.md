@@ -43,7 +43,7 @@ Diastolic blood pressure (mm Hg), Triceps skinfold thickness (mm), and so on.
 * Code to simulate the flow of voters through polling places and analyze the interplay between different thresholds for voter impatience and the number of voting booths assigned to a precinct, and analyze the interplay between different thresholds for voter impatience and the number of voting booths assigned to a precinct.
 
 
-# Project 9:Visualizing Avian Biodiversity Using Treemaps
+# [Project 9:Visualizing Avian Biodiversity Using Treemaps](https://github.com/SiwenSusan/SiwenSusan.github.io/tree/main/Project%209)
 * Generate treemaps to visualize this avian biodiversity data from samples taken throughout the year. Treemaps are a space-constrained method for visualizing hierarchical structures that present a sense of “mass” and proportionality in a way that the typical tree diagram does not. 
 This algorithm can be used to visualize many different types of data, including stock portfolios, oil production, gene ontology, stimulus spending, and more. 
 ![alt text](https://github.com/SiwenSusan/SiwenSusan.github.io/blob/main/Pictures/Treemaps.png)
