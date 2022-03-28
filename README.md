@@ -36,7 +36,7 @@ Diastolic blood pressure (mm Hg), Triceps skinfold thickness (mm), and so on.
 # [Project 7:Modeling Language Shifts](https://github.com/SiwenSusan/SiwenSusan.github.io/tree/main/Project%207)
 * Reproduced language shift model algorithm showed in Beltran, et al. ’s paper, A Language Shift Simulation Based on Cellular Automata. Started with a region of DL and SL speakers and simulate how language preferences change over time. 
 
-# [Project 8:Polling places]（https://github.com/SiwenSusan/SiwenSusan.github.io/tree/main/Project%208）
+# [Project 8:Polling places](https://github.com/SiwenSusan/SiwenSusan.github.io/tree/main/Project%208)
 * Built an algorithm to calculate the ideal number of booths for voters to avoid voters get impatient and leaving without voting by calculating the median number of booths computed across the trials
 
 * Code to simulate the flow of voters through polling places and analyze the interplay between different thresholds for voter impatience and the number of voting booths assigned to a precinct, and analyze the interplay between different thresholds for voter impatience and the number of voting booths assigned to a precinct.
