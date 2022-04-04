@@ -10,9 +10,9 @@
 
 Example Output:
 Part1 
-![alt text](https://github.com/SiwenSusan/SiwenSusan.github.io/blob/main/Pictures/pic_part1.png)
+![](Pictures/pic_part1.png)
 Part2
-![alt text](https://github.com/SiwenSusan/SiwenSusan.github.io/blob/main/Pictures/pic_part2.png)
+![](Pictures/pic_part2.png)
 
 
 # [Project 2: Application|Speaker Attribution Using Markov Model](https://github.com/SiwenSusan/SiwenSusan.github.io/tree/main/Project%202)
